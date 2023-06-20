@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit
 
 class KomikCast : MangaThemesia(
     "Komik Cast",
-    baseUrl = "https://komikcast.site",
+    baseUrl = "https://komikcast.io",
     "id",
     mangaUrlDirectory = "/daftar-komik",
 ) {
